@@ -5,7 +5,7 @@ spring:
 server:
   port: 3001
   rabbitmq:
-    host: 192.168.199.136
+    host: 192.168.32.128
     port: 5672
     username: admin
     password: admin
